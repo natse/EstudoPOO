@@ -1,0 +1,13 @@
+D:\Falcudade\POO\BibliotecaFrancisco\BibliotecaFrancisco\obj\Debug\BibliotecaFrancisco.csprojAssemblyReference.cache
+D:\Falcudade\POO\BibliotecaFrancisco\BibliotecaFrancisco\obj\Debug\BibliotecaFrancisco.Formulario.FormAluno.resources
+D:\Falcudade\POO\BibliotecaFrancisco\BibliotecaFrancisco\obj\Debug\BibliotecaFrancisco.Formulario.FormEmprestimo.resources
+D:\Falcudade\POO\BibliotecaFrancisco\BibliotecaFrancisco\obj\Debug\BibliotecaFrancisco.Formulario.FormFuncionario.resources
+D:\Falcudade\POO\BibliotecaFrancisco\BibliotecaFrancisco\obj\Debug\BibliotecaFrancisco.Formulario.FormLivro.resources
+D:\Falcudade\POO\BibliotecaFrancisco\BibliotecaFrancisco\obj\Debug\BibliotecaFrancisco.Formulario.FormPrincipal.resources
+D:\Falcudade\POO\BibliotecaFrancisco\BibliotecaFrancisco\obj\Debug\BibliotecaFrancisco.Properties.Resources.resources
+D:\Falcudade\POO\BibliotecaFrancisco\BibliotecaFrancisco\obj\Debug\BibliotecaFrancisco.csproj.GenerateResource.cache
+D:\Falcudade\POO\BibliotecaFrancisco\BibliotecaFrancisco\bin\Debug\BibliotecaFrancisco.exe.config
+D:\Falcudade\POO\BibliotecaFrancisco\BibliotecaFrancisco\bin\Debug\BibliotecaFrancisco.exe
+D:\Falcudade\POO\BibliotecaFrancisco\BibliotecaFrancisco\bin\Debug\BibliotecaFrancisco.pdb
+D:\Falcudade\POO\BibliotecaFrancisco\BibliotecaFrancisco\obj\Debug\BibliotecaFrancisco.exe
+D:\Falcudade\POO\BibliotecaFrancisco\BibliotecaFrancisco\obj\Debug\BibliotecaFrancisco.pdb
